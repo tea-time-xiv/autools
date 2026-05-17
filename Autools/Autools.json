@@ -1,0 +1,13 @@
+{
+  "InternalName": "Autools",
+  "Author": "tea-time-xiv",
+  "Name": "Autools",
+  "Punchline": "Automation utilities for FFXIV",
+  "Description": "Quality of life automation features including auto Priority Aetheryte Pass usage (/passauto) and auto-cancel Jog buff after Sprint expires (/nojog).",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "utility",
+    "automation",
+    "teleport"
+  ]
+}

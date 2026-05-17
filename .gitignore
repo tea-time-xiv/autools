@@ -1,0 +1,6 @@
+.vs/
+obj/
+bin/
+*.user
+.idea/
+.claude/settings.local.json
